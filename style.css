@@ -1267,7 +1267,7 @@ a:hover, a:focus, a.active {
 }
 
 .hero-area h1 {
-  color: #fff;
+  color: black;
   font-size: 28px;
   line-height: 30px;
   font-weight: 700;
@@ -1288,6 +1288,7 @@ a:hover, a:focus, a.active {
 
 .hero-area p {
   margin: 0 0 25px;
+  color: black
 }
 
 .hero-area .heading-holder {
