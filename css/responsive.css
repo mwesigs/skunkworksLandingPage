@@ -140,8 +140,11 @@
     padding: 96px 0 0; }
     .hero-area h1 {
       font-size: 35px;
-      line-height: 37px; }
+      line-height: 37px; 
+      color: black;
+    }
     .hero-area p {
+      color: black;
       margin: 0 0 54px; }
   .aside {
     padding-top: 45px; }
