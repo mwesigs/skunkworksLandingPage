@@ -2630,6 +2630,7 @@ h6 a,
   margin-bottom: 25px;
   overflow: hidden;
   position: relative;
+
 }
 
 .blog-post time {
@@ -3477,6 +3478,14 @@ h6 a,
   margin-bottom: 35px;
   float: none;
   max-width: 500px;
+}
+
+.report {
+  max-width: 80%;
+}
+
+i .strikeout {
+  text-decoration: line-through
 }
 
 /*------------------------------------------------------------------
