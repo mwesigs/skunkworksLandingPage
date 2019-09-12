@@ -1073,15 +1073,18 @@ a:hover, a:focus, a.active {
 -------------------------------------------------------------------*/
 .logo {
   float: left;
-  max-width: 100px;
+  max-width: 150px;
 }
 
 .logo .light {
   display: block;
+  
 }
 
 .logo .dark {
   display: none;
+  max-width: 100px;
+  margin-bottom: 10px;
 }
 
 /*------------------------------------------------------------------
@@ -2072,7 +2075,11 @@ a:hover, a:focus, a.active {
 .aside .logo {
   float: none;
   margin: 0 auto 28px;
-  max-width: 132px;
+  max-width: 200px;
+}
+
+#mwlogo {
+  max-width: 75px;
 }
 
 /*------------------------------------------------------------------
